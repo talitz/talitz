@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Tal Yitzhak, a Solution Engineer at JFrog 🐸.
+ 👋
 
 <!--
 **talitz/talitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
