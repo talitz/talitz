@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐸 I'm currently working as a DevOps Engineer at JFrog<br>📫 How to reach me: Linkedin, Twitter, Linktree<br>🎓 Computer Science Graduate (BSc) from Ben-Gurion University<br>🎓 Computer Science MSc Student at the Open University of Israel
+🐸 I'm currently working as a DevOps Engineer at JFrog<br>🎓 Computer Science Graduate (BSc) from Ben-Gurion University<br>🎓 Computer Science MSc Student at the Open University of Israel
 
 
 ## 🌐 Socials:
