@@ -1,5 +1,5 @@
-# 💫 About Me:
-🐸 I'm currently working as a DevOps Engineer at JFrog<br>🎓 Computer Science Graduate (BSc) from Ben-Gurion University<br>🎓 Computer Science MSc Student at the Open University of Israel
+![image](https://github.com/talitz/talitz/assets/15890481/9840a3f9-248f-47c6-a5e1-a1a4c6ec02db)# 💫 About Me:
+I'm currently working as a Solutions Architect at Lightrun<br>🎓 Computer Science Graduate (BSc) from Ben-Gurion University<br>🎓 Computer Science MSc Student at the Open University of Israel
 
 
 ## 🌐 Socials:
